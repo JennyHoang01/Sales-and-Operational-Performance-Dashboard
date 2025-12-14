@@ -44,7 +44,8 @@ This table contains synthetic, assumed targets for two key metrics: Delivery SLA
 
 ---
 ## Excel Dashboard
-🔎 **Full Excel Dashboard and files here:** [Excel file & Dashboard]()
+🔎 **Download the raw file for the full Excel Dashboard and file here:** [Excel file & Dashboard](https://github.com/JennyHoang01/Sales-and-Operational-Performance-Dashboard/blob/main/Sales%26Operational_Performance_Dashboard.xlsm)
+
 ### Data Cleaning in Power Query
 The following transformations were applied to the raw data:
 - Promoted the first row as headers and explicitly set appropriate column data types.
@@ -67,7 +68,7 @@ Advanced formulas were used to create the core metrics for the dashboard:
   - At-Risk Transaction Rate: Percentage of transactions with a low satisfaction score <= 5 AND a delivery failure (SLA fail : late delivery) / Total Transactions.
   - Percentage of Feedback Missing: Percentage of transactions where the Satisfaction Feedback_Status is "FEEDBACK MISSING" / Total Transactions.
 
-![Dashboard]()
+![Dashboard](https://github.com/JennyHoang01/Sales-and-Operational-Performance-Dashboard/blob/main/Sales%26OperationalDashboard.png)
 
 ---
 
