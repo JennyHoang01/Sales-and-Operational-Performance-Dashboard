@@ -68,7 +68,7 @@ Advanced formulas were used to create the core metrics for the dashboard:
   - At-Risk Transaction Rate: Percentage of transactions with a low satisfaction score <= 5 AND a delivery failure (SLA fail : late delivery) / Total Transactions.
   - Percentage of Feedback Missing: Percentage of transactions where the Satisfaction Feedback_Status is "FEEDBACK MISSING" / Total Transactions.
 
-![Dashboard](https://github.com/JennyHoang01/Sales-and-Operational-Performance-Dashboard/blob/main/Sales%26OperationalDashboard.png)
+![Dashboard](https://github.com/JennyHoang01/Sales-and-Operational-Performance-Dashboard/blob/main/Sales%26Operational%20Dashboard.png)
 
 ---
 
